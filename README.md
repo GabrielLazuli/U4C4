@@ -31,4 +31,4 @@ Este projeto tem como objetivo consolidar os conceitos sobre interrupções em m
 🎥 [Acesse o vídeo aqui](https://youtube.com/shorts/HcE-Me9yYnE?feature=share) 
 
 ## Autor  
-Reinan Argolo
+Gabriel Souza Santos
